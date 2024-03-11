@@ -1,1 +1,3 @@
 # first_repo
+this is my first repository
+My name is TUSHAR AVSTHI......
